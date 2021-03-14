@@ -1,0 +1,4 @@
+*.out
+Jackson/__pycache__/*
+Jackson/.pytest_cache/*
+*/.vscode/*
